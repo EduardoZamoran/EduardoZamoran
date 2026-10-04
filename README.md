@@ -12,7 +12,7 @@
 
 **Embedded Systems &nbsp;·&nbsp; Digital & IC Design &nbsp;·&nbsp; Linux Systems**
 
-<a href="https://www.linkedin.com/in/eduardo-zamora-moran"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="mailto:eduardo.zamoran@gmail.com"><img src="https://img.shields.io/badge/eduardo.zamoran@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a> <a href="https://www.instagram.com/eduardo_zarzamora"><img src="https://img.shields.io/badge/eduardo_zarzamora-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://www.linkedin.com/in/eduardo-zamora-moran"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="mailto:eduardo.zamoran@gmail.com"><img src="https://img.shields.io/badge/eduardo.zamoramoran@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a> <a href="https://www.instagram.com/eduardo_zarzamora"><img src="https://img.shields.io/badge/eduardo_zarzamora-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
 
 <sub>🇬🇧 English &nbsp;·&nbsp; <a href="./README.es.md">🇲🇽 Español</a></sub>
 
