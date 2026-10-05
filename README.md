@@ -49,18 +49,6 @@ Working proficiency across the stack: **intermediate**.
 
 ---
 
-## Logic in Motion
-
-<div align="center">
-
-<img src="./assets/ff-circuit.svg" alt="Animated D flip-flop built from NAND gates" width="720" />
-
-<sub>Positive-edge-triggered D flip-flop built from six NAND gates.</sub>
-
-</div>
-
----
-
 ## Repository Hub
 
 Work is organized by discipline. Each hub collects the projects, labs and notes for that area.
@@ -133,6 +121,18 @@ I serve as **Secretary** of the IEEE Circuits and Systems Society student chapte
 
 - **Open-source ASIC design flow** with LibreLane: synthesis, floorplanning, place and route, and signoff.
 - **Process design kits:** GlobalFoundries **GF180MCU (180 nm)** and SkyWater **SKY130 (130 nm)**.
+
+---
+
+## Logic in Motion
+
+<div align="center">
+
+<img src="./assets/ff-circuit.svg" alt="Animated D flip-flop built from NAND gates" width="720" />
+
+<sub>Positive-edge-triggered D flip-flop built from six NAND gates.</sub>
+
+</div>
 
 ---
 
